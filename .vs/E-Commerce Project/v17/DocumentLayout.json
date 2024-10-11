@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fahad\\source\\repos\\E-Commerce Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A7A597-03FF-4C5C-80CB-C5FB3BA2E37C}|E-Commerce Project\\E-Commerce Project.csproj|c:\\users\\fahad\\source\\repos\\e-commerce project\\e-commerce project\\example.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B8A7A597-03FF-4C5C-80CB-C5FB3BA2E37C}|E-Commerce Project\\E-Commerce Project.csproj|solutionrelative:e-commerce project\\example.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Example.aspx",
+              "DocumentMoniker": "C:\\Users\\fahad\\source\\repos\\E-Commerce Project\\E-Commerce Project\\Example.aspx",
+              "RelativeDocumentMoniker": "E-Commerce Project\\Example.aspx",
+              "ToolTip": "C:\\Users\\fahad\\source\\repos\\E-Commerce Project\\E-Commerce Project\\Example.aspx",
+              "RelativeToolTip": "E-Commerce Project\\Example.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-10T08:15:38.964Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
